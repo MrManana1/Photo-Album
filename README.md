@@ -25,9 +25,7 @@ This project showcases a collection of captivating photos captured from differen
 - Dummy timestamps to simulate the recency of the photos.
 - Navigation menu for easy access to different sections.
 
-## Demo
 
-You can view a live demo of the Photo Album [here](#).
 
 ## Getting Started
 
@@ -36,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/photo-album.git
+   git clone https://github.com/MrManana1/photo-album.git
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -76,6 +74,6 @@ We welcome your contributions!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Please replace `yourusername` with your actual GitHub username in the clone URL in the "Getting Started" section. Additionally, you can add a link to a live demo of your project once you host it.
+Please replace `MrManana1` with your actual GitHub username in the clone URL in the "Getting Started" section. Additionally, you can add a link to a live demo of your project once you host it.
 
 Once you create a GitHub repository with the name "photo-album," you can simply create a `README.md` file in the repository, paste this content into it, and commit the changes to have your project and its description on GitHub.
